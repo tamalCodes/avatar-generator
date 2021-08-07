@@ -1,0 +1,56 @@
+body {
+
+    padding-top: 50px;
+}
+
+#gen {
+    font-family: "Sigmar One", cursive;
+    text-align: center;
+    font-size: 2.7rem;
+    padding-bottom: 50px;
+    color: black;
+}
+
+#centerdiv {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    text-align: center;
+    display: grid;
+    place-items: center;
+
+}
+
+label {
+    color: black;
+    font-size: 1.2rem;
+    font-family: 'Georama', sans-serif;
+    text-align: center;
+    font-weight: 650;
+}
+
+input {
+    display: block;
+    background-color: burlywood;
+    border-style: solid;
+    border-radius: 10%;
+    width: 190px;
+    text-align: center;
+}
+
+#imgdiv {
+    padding-bottom: 20px;
+}
+
+.btn {
+    width: 110px;
+    font-family: 'Georama', sans-serif;
+    font-weight: 750;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 1rem;
+    font-weight: 600;
+}
